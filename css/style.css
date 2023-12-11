@@ -400,6 +400,8 @@ body {
   padding-left: 15px;
   padding-bottom: 3%;
   align-self: flex-end;
+  position: absolute;
+  bottom: 3px;
 }
 
 .main__inner {
