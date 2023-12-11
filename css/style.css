@@ -253,7 +253,7 @@ body {
 /*main*/
 
 .main-background-image {
-  background-image: url('../img/vector-main-page.png');
+  background-image: url('../img/background/vector-main-page.png');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100%;
@@ -398,8 +398,6 @@ body {
   letter-spacing: 0.25px;
   color: #868686;
   padding-left: 15px;
-  padding-bottom: 3%;
-  align-self: flex-end;
   position: absolute;
   bottom: 3px;
 }
