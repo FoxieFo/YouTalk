@@ -252,13 +252,6 @@ body {
 
 /*main*/
 
-.main-background-image {
-  background-image: url('../img/background/vector-main-page.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: 100%;
-}
-
 .breadcrumbs {
   display: flex;
   flex-direction: row;
@@ -1050,7 +1043,6 @@ li::marker {
     background: -webkit-linear-gradient(270deg, hsla(211, 83%, 72%, 1) 0%, hsla(212, 60%, 57%, 1) 11%, hsla(211, 60%, 40%, 1) 27%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#7AB5F3", endColorstr="#4F8DD3", GradientType=1 );
   }
-
   
   .background {
     background-image: none;
